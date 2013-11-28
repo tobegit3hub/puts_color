@@ -1,0 +1,11 @@
+#!/usr/bin/env ruby
+
+require "puts_color"
+
+puts_red "It"
+puts_green "is"
+puts_yellow "colorful"
+puts_blue "and"
+puts_purple "easy"
+puts_cyan "to"
+puts_grey "use!"
