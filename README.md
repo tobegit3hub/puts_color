@@ -6,25 +6,22 @@ This gem provides convenient ways like `puts_red sth` to print string in differe
 
 ## Usage
 1. Install
-
-
-    gem install puts_color
+  
+    gem install puts_color  
     gem "puts_color", "~> 0.1.0"`
 
 2. Require
-
-
+  
     require "puts_color"
 	
 3. Call
-
-
-    puts_red any_string
-	puts_green any_string
-	puts_yellow any_string
-	puts_blue any_string
-	puts_purple any_string
-	puts_cyan any_string
+  
+    puts_red any_string  
+	puts_green any_string  
+	puts_yellow any_string  
+	puts_blue any_string  
+	puts_purple any_string  
+	puts_cyan any_string  
 	puts_grey any_string
 
 
