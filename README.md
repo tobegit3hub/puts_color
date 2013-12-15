@@ -8,11 +8,12 @@ This gem provides convenient ways like `puts_red sth` to print string in differe
 1. Install
   
     gem install puts_color  
-    gem "puts_color", "~> 0.1.0"`
+    gem "puts_color", "~> 0.2.0"`
 
 2. Require
   
-    require "puts_color"
+    require "puts_color"  
+	include PutsColor
 	
 3. Call
   
