@@ -2,6 +2,7 @@
 
 require "test/unit"
 require "puts_color"
+include PutsColor
 
 class TestPutsColor < Test::Unit::TestCase
 

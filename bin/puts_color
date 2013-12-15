@@ -1,6 +1,7 @@
 #!/usr/bin/env ruby
 
 require "puts_color"
+include PutsColor
 
 puts_red "It"
 puts_green "is"
